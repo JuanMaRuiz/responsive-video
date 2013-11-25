@@ -12,12 +12,19 @@ vendors = webkit o ms moz
 	font-weight: normal
 	font-style: normal
 
-
+html 
+	position relative
+	top -25px
+	overflow-y: auto
 
 body 
 	background #ecf0f1
 	font-family 'Helvetica', Arial, sans-serif
 	color #333
+	position absolute
+	top 0
+	left 0
+	right 0
 
 .header
 	width 100%
@@ -63,7 +70,7 @@ article
 
 .video
 	height 0
-	overflow hidden
+	// overflow hidden
 	padding-bottom 56.25%
 	padding-top 30px
 	width 100%

@@ -3,6 +3,8 @@ Responsive Video
 
 ### A simple way to make a iframe video responsive.
 
+[Check out demo](http://juanmaruiz.com/test/responsive-video/)
+
 ## How is made
 
 * [HTML5 Reset](http://html5reset.org/) and [HTML5 Boilerplate](http://html5boilerplate.com) as base template.

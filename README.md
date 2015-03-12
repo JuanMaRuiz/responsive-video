@@ -16,8 +16,3 @@ Hipster logo created with this [fancy tool](http://www.elid.fr/hlg/). You can ch
 ## Based
 
 You can see the explanation in the [tutorial](https://www.youtube.com/watch?v=V2VToIDHWIw#t=94) I've followed.
-
-## Credits
-[JuanMa Ruiz](http://www.juanmaruiz.com)
-[@RJuanMa](http://twitter.com/RJuanMa)
-[Mejorandola](https://courses.platzi.com/)

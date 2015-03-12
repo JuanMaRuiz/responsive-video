@@ -1,20 +1,23 @@
-# Responsive Video
-### A simple way to make a iframe video responsive.
+Responsive Video
+================
 
-This is a Work in progress...
+### A simple way to make a iframe video responsive.
 
 ## How is made
 
-I've used [960gs](http://960.gs/), [HTML5 Reset](http://html5reset.org/), [HTML5 Boilerplate](http://html5boilerplate.com), [Stylus](http://learnboost.github.io/stylus/) and [Nib](http://visionmedia.github.io/nib/).
+* [HTML5 Reset](http://html5reset.org/) and [HTML5 Boilerplate](http://html5boilerplate.com) as base template.
+* [960gs](http://960.gs/) for fluid layout.
 
 
 ## My logo is not my logo
 
-It's created with this [fancy tool](http://www.elid.fr/hlg/) for create a hipster logo. You can check the awesome '[The Hipster Logo Design Guide](http://hipsterlogo.com/)'
+Hipster logo created with this [fancy tool](http://www.elid.fr/hlg/). You can check out the awesome '[The Hipster Logo Design Guide](http://hipsterlogo.com/)'.
 
 ## Based
 
-Based on tutorial [How to](https://www.youtube.com/watch?v=V2VToIDHWIw#t=94)
+You can see the explanation in the [tutorial](https://www.youtube.com/watch?v=V2VToIDHWIw#t=94) I've followed.
 
 ## Credits
-[JuanMa Ruiz](http://www.juanmaruiz.com) [@RJuanMa](http://twitter.com/RJuanMa).
+[JuanMa Ruiz](http://www.juanmaruiz.com)
+[@RJuanMa](http://twitter.com/RJuanMa)
+[Mejorandola](https://courses.platzi.com/)
